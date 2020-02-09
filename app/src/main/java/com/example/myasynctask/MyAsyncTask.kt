@@ -1,4 +1,4 @@
-package com.example.myasync
+package com.example.myasynctask
 
 import android.app.ProgressDialog
 import android.app.SearchManager
@@ -74,4 +74,3 @@ public class MyAsyncTask : AsyncTask<String, Int, Long>, SearchManager.OnCancelL
     }
 
 }
-
